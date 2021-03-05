@@ -1,8 +1,8 @@
 # Cats-Effect Seed
 
-Minimal Giter8 template to get you set up with cats-effect (with console4cats)
+Minimal Giter8 template to get you set up with [cats-effect] (with [console4cats]).
 
-Based on [scalawithcats/cats-seed.g8][origin]
+Based on [scalawithcats/cats-seed.g8][origin].
 
 Licensed [CC0 1.0][license].
 
@@ -37,6 +37,8 @@ Follow the instructions in the generated `README.md` file
 to download the necessary dependencies and launch a sample app.
 If you see the message "Hello, Cats!", you're good to go!
 
+[cats-effect]: https://typelevel.org/cats-effect
+[console4cats]: https://console4cats.profunktor.dev
 [origin]: https://github.com/scalawithcats/cats-seed.g8
-[license]: https://creativecommons.org/publicdomain/zero/1.0/
+[license]: https://creativecommons.org/publicdomain/zero/1.0
 [sbt]: http://scala-sbt.org
