@@ -2,6 +2,8 @@
 
 Minimal Giter8 template to get you set up with cats-effect (with console4cats)
 
+Based on [scalawithcats/cats-seed.g8][origin]
+
 Licensed [CC0 1.0][license].
 
 ## Getting Started
@@ -33,7 +35,8 @@ $ cd ./cats-sandbox
 
 Follow the instructions in the generated `README.md` file
 to download the necessary dependencies and launch a sample app.
-If you see the message "Hello Cats!", you're good to go!
+If you see the message "Hello, Cats!", you're good to go!
 
+[origin]: https://github.com/scalawithcats/cats-seed.g8
 [license]: https://creativecommons.org/publicdomain/zero/1.0/
 [sbt]: http://scala-sbt.org
