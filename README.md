@@ -12,14 +12,14 @@ You'll need to [SBT][sbt] 0.13.18 or higher to use this template.
 
 Run the following shell command:
 
-~~~bash
+~~~sh
 $ sbt new scalawithcats/cats-seed.g8
 ~~~
 
 You'll be prompted to enter a project and package name.
 Press enter twice to accept the defaults:
 
-~~~bash
+~~~sh
 name [Cats Sandbox]:
 package [sandbox]:
 ~~~
@@ -29,7 +29,7 @@ based off of the `name` you specified.
 If you accepted the defaults
 the directory will be called `cats-sandbox`:
 
-~~~bash
+~~~sh
 $ cd ./cats-sandbox
 ~~~
 
