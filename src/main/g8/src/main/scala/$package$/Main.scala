@@ -1,8 +1,10 @@
 package $package$
 
-import cats.instances.string._
-import cats.syntax.semigroup._
+import cats.effect._
+import cats.effect.Console.io._
 
-object Main extends App {
-  println("Hello " |+| "Cats!")
+object Main extends IOApp {
+  def run(args: List[String]): IO[ExitCode] = {
+    putStrLn("Hello, Cats!").as(ExitCode.Success)
+  }
 }

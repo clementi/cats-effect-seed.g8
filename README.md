@@ -1,8 +1,7 @@
-# Cats Seed
+# Cats-Effect Seed
 
-Minimal Giter8 template to get you set up with Cats.
+Minimal Giter8 template to get you set up with cats-effect (with console4cats)
 
-Copyright 2017 Underscore Consulting LLP, 2020 Inner Product LLC.
 Licensed [CC0 1.0][license].
 
 ## Getting Started
