@@ -8,7 +8,7 @@ Licensed [CC0 1.0][license].
 
 ## Getting Started
 
-You'll need to [SBT][sbt] 0.13.13 or higher to use this template.
+You'll need to [SBT][sbt] 0.13.18 or higher to use this template.
 
 Run the following shell command:
 
