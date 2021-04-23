@@ -1,4 +1,4 @@
-# Cats-Effect Console Seed
+# Cats-Effect Seed
 
 Minimal Giter8 template to get you set up with [cats] and [cats-effect].
 
