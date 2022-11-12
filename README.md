@@ -13,7 +13,7 @@ You'll need to [SBT][sbt] 0.13.18 or higher to use this template.
 Run the following shell command:
 
 ~~~sh
-$ sbt new scalawithcats/cats-seed.g8
+$ sbt new clementi/cats-effect-seed.g8
 ~~~
 
 You'll be prompted to enter a project and package name.
